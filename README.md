@@ -11,3 +11,5 @@ To get started, follow these steps:
 1. Clone the repository to your computer.
 2. Navigate to the directory where you cloned the repository and open the `index.html` file in your preferred web browser.
 3. Enjoy! 👾
+
+![triangle-rain](imgs/triangle-rain.gif)
