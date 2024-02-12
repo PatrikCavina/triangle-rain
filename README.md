@@ -1,6 +1,7 @@
 # Triangle Rain
 
-I created this project a while back when I was feeling inspired and had some free time. This repository represents, in my opinion, a small piece of digital art.
+I created this project some time ago when I was feeling inspired and had some free time.
+This project produces a shower of inverse triangles in pure vanilla JS.
 
 You can customize the number of triangles/particles directly from the code. The code should be readable enough, but if it's not, feel free to ask questions, submit pull requests, or whatever you prefer 😸.
 
